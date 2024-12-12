@@ -2,7 +2,9 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - master
+      - main
+permissions:
+  contents: write
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
