@@ -2,7 +2,7 @@
 Stack game clone made using Three.js
 
 ## Live
-You can play now [here](https://konradlinkowski.github.io/Stack/)
+You can play now [here](https://santa512.github.io/stack-master)
 
 ![gameplay gif](./screenshots/game.gif)
 
